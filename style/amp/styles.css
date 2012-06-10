@@ -1,0 +1,16 @@
+.holiday-calendar-month { border: solid 1px darkgray; }
+.selectable li { border: solid 1px darkgray;}
+.selectable .ui-calendar-workday { background: white; color: darkgray; }
+.selectable .ui-company-workday  { background: yellow; color: darkgray; }
+.selectable .ui-calendar-holiday { background: darkgray; }
+.selectable .ui-company-holiday { background: gray; }
+.ui-unselectable { background: #E4E9E9; }
+.selectable .ui-user-holiday { background: blue; color: white; }
+.selectable .ui-selecting { background: #FECA40; }
+.selectable .ui-selected { background: #F39814; color: white; }
+#holiday-calendar { width: 768px;}
+.holiday-calendar-month { width: 126px;}
+.holiday-calendar-monthname { width: 126px;}
+ol.selectable { width: 126px; list-style-type: none; margin: 0; padding: 0; }
+ol.selectable li { width: 12px; height: 12px; line-height: 12px; }
+div.selectable span { width: 12px; height: 12px; }

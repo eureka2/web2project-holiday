@@ -1,0 +1,10 @@
+.holiday-calendar-month { border: solid 1px darkgray; }
+.selectable li { border: solid 1px darkgray;}
+.selectable .ui-calendar-workday { background: white; }
+.selectable .ui-company-workday  { background: yellow; }
+.selectable .ui-calendar-holiday { background: darkgray; }
+.selectable .ui-company-holiday { background: gray; }
+.ui-unselectable { background: #D4D7D1; }
+.selectable .ui-user-holiday { background: blue; color: white; }
+.selectable .ui-selecting { background: #FECA40; }
+.selectable .ui-selected { background: #F39814; color: white; }

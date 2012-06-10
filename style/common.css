@@ -1,0 +1,16 @@
+#holiday-options ul { width: 100%; list-style-type: none; margin: 0; padding: 0; }
+#holiday-options ul li { float: left; margin: 0 10px 0 0; }
+#holiday-choices { width: 186px; float: left; }
+#holiday-key { clear:both; }
+#holiday-calendar { width: 852px; float: left;}
+fieldset legend { font-weight: bold; }
+.settings { clear: both; }
+.holiday-calendar-month { width: 140px; float: left; margin: 0; padding: 0; }
+.holiday-calendar-monthname { width: 140px; text-align: center; display: block;}
+ol.selectable { width: 140px; list-style-type: none; margin: 0; padding: 0; }
+ol.selectable li { border-width: 1px; margin: 1px; padding: 1px; float: left; width: 14px; height: 14px; text-align: center; vertical-align: center; line-height: 14px; cursor: default;}
+div.selectable span{ border: solid 1px gray; margin: 1px; padding: 1px; width: 14px; height: 14px; text-align: center; vertical-align: center; line-height: 14px;}
+ol.selectable .ui-dayname { border: none; padding: 0 2px 0 2px; }
+/* TimeEntry styles */
+.timeEntry_control {	vertical-align: middle;	margin-left: 2px;}
+* html .timeEntry_control { /* IE only */	margin-top: -4px;}

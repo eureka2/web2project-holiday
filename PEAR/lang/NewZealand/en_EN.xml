@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<driver-data>
+    <holidays>
+       
+        <holiday>
+            <internal-name>newYearsDay</internal-name>
+            <translation>New Year's Day</translation>
+        </holiday>
+		
+        <holiday>
+        	<internal-name>newYearsDayHoliday</internal-name>
+        	<translation>New Year's Holiday</translation>
+		</holiday>
+
+        <holiday>
+            <internal-name>dayAfterNewYearsDay</internal-name>
+            <translation>New Year's Holiday</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>waitangiDay</internal-name>
+            <translation>Waitangi Day</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>goodFriday</internal-name>
+            <translation>Good Friday</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>easterMonday</internal-name>
+            <translation>Easter Monday</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>anzacDay</internal-name>
+            <translation>Anzac Day</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>queensBirthday</internal-name>
+            <translation>Queen's Birthday</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>labourDay</internal-name>
+            <translation>Labour Day</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>christmasDay</internal-name>
+            <translation>Christmas Day</translation>
+        </holiday>
+		
+        <holiday>
+            <internal-name>boxingDay</internal-name>
+            <translation>Boxing Day</translation>
+        </holiday>
+		
+        <holiday>
+         	<internal-name>christmasDayHoliday</internal-name>
+         	<translation>Christmas Day Holiday</translation>
+		</holiday>
+			
+        <holiday>
+		   	<internal-name>boxingDayHoliday</internal-name>
+         	<translation>Boxing Day Holiday</translation>
+		</holiday>
+        
+		<holiday>
+         	<internal-name>anniversaryDaySd</internal-name>
+         	<translation>Southland Anniversary</translation>
+		</holiday>
+		
+        <holiday>
+         	<internal-name>anniversaryDayWn</internal-name>
+         	<translation>Wellington Anniversary</translation>
+		</holiday>
+		
+        <holiday>
+         	<internal-name>anniversaryDayAk</internal-name>
+         	<translation>Auckland Anniversary</translation>
+		</holiday>
+			
+        <holiday>
+         	<internal-name>anniversaryDayNn</internal-name>
+         	<translation>Nelson Anniversary</translation>
+		</holiday>
+			
+        <holiday>
+         	<internal-name>anniversaryDayOo</internal-name>
+         	<translation>Otago Anniversary</translation>
+		</holiday>
+			
+        <holiday>
+         	<internal-name>anniversaryDayMb</internal-name>
+         	<translation>Marlborough Anniversary</translation>
+		</holiday>
+			
+        <holiday>
+         	<internal-name>anniversaryDayCi</internal-name>
+         	<translation>Chatam Island Anniversary</translation>
+		</holiday>
+			
+        <holiday>
+         	<internal-name>anniversaryDayWd</internal-name>
+         	<translation>Westland Anniversary</translation>
+		</holiday>
+			
+        <holiday>
+         	<internal-name>anniversaryDayTk</internal-name>
+         	<translation>Taranaki Anniversary</translation>
+		</holiday>
+		
+        <holiday>
+         	<internal-name>anniversaryDaySc</internal-name>
+         	<translation>South Canterbury Anniversary</translation>
+		</holiday>
+		
+        <holiday>
+         	<internal-name>anniversaryDayHb</internal-name>
+         	<translation>Hawkes' Bay Anniversary</translation>
+		</holiday>
+		
+        <holiday>
+         	<internal-name>anniversaryDayNc</internal-name>
+         	<translation>North Canterbury Anniversary</translation>
+		</holiday>
+
+    </holidays>
+</driver-data>

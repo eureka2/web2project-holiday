@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<driver-data>
+    <holidays>
+    
+            
+        <holiday>
+            <internal-name>anoNovo</internal-name>
+            <translation>Ano Novo</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>pascoa</internal-name>
+            <translation>Páscoa</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>carnaval</internal-name>
+            <translation>Carnaval</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>cinzas</internal-name>
+            <translation>Cinzas</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>corpusChristi</internal-name>
+            <translation>Corpus Christi</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>tiradentes</internal-name>
+            <translation>Tiradentes</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>diaDoTrabalho</internal-name>
+            <translation>Dia do Trabalho</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>independenciaDoBrasil</internal-name>
+            <translation>Independência do Brasil</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>aparecida</internal-name>
+            <translation>Aparecida</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>finados</internal-name>
+            <translation>Finados</translation>
+        </holiday>
+
+        <holiday>
+            <internal-name>proclamacaoDaRepublica</internal-name>
+            <translation>Proclamação da República</translation>
+        </holiday>
+            
+        <holiday>
+            <internal-name>natal</internal-name>
+            <translation>Natal</translation>
+        </holiday>        
+        
+    </holidays>
+</driver-data>

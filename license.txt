@@ -1,0 +1,19 @@
+The core of this module was inspired by the holiday module for dotProject but 
+built for web2project and is subject to the current web2project license: GPL v2
+
+The Holiday module was built by CaseySoftware, LLC and is released here 
+under GPL v2 and no other version.
+
+Copyright (c) 2009 CaseySoftware, LLC <webmaster@caseysoftware.com>
+
+Special credit and acknowledgement goes to:
+
+- Web2project Development Team member D. Keith Casey, Jr. 
+<caseydk@users.sourceforge.net> of CaseySoftware in cleaning up the code for the v3.x releases which are 
+fully and completely compatible with web2project;
+
+- Vegard Fiksdal <fiksdal@sensorlink.no> of Sensorlink for his work on the 
+original dotProject version therefore inspiring development of the 
+web2project version;
+
+
