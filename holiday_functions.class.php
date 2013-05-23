@@ -10,7 +10,10 @@ define('HOLIDAY_TYPE_USER_HOLIDAY', 2);
 define('HOLIDAY_TYPE_CALENDAR_HOLIDAY', 3);
 
 require_once 'PEAR/Holidays.php';
-require_once $AppUI->getLibraryClass("PEAR/Date");
+
+if (is_object($AppUI)) {
+    require_once $AppUI->getLibraryClass("PEAR/Date");
+}
 
 class HolidayFunctions
 {
