@@ -3,7 +3,7 @@
 require_once 'PEAR/Holidays.php';
 require_once "holiday_functions.class.php";
 
-$perms = &$AppUI->acl();
+$AppUI = is_object($AppUI) ? $AppUI : new w2p_Core_CAppUI();
 
 $user_id = w2PgetParam($_REQUEST, 'user_id', null);
 if (!is_null( $user_id )) {
@@ -251,9 +251,6 @@ $.getScript ("modules/holiday/lib/ui-selectable/jquery.ui.core.js", function () 
                     <?php
                     $users = w2PgetUsersList();
                     foreach ($users as $id => $user) {
-                        if (!$perms->isUserPermitted($user['user_id'])) {
-                            continue;
-                        }
                         $selected = $user['user_id'] == $user_id ? ' selected="selected"' : '';
                         echo '<option value="' . $user['user_id'] . '"' . $selected . '>' . $user['contact_first_name'] . ' ' . $user['contact_last_name'] . '</option>';
                     }
