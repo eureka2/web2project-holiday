@@ -12,7 +12,7 @@ if (!is_null( $user_id )) {
 else {
     $user_id = $AppUI->getState( 'HolidaySelectedUser' ) ? $AppUI->getState( 'HolidaySelectedUser' ) : $AppUI->user_id;
 }
-$AppUI->savePlace();
+
 $is_my_holidays = ($user_id == $AppUI->user_id);
 
 // establish the focus 'date'

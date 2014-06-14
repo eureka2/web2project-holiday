@@ -5,12 +5,10 @@ if (!defined('W2P_BASE_DIR'))
     die('You should not access this file directly.');
 }
 
-$AppUI->savePlace();
-
 $tab = $AppUI->processIntState('HolidayTab', $_GET, 'tab', 0);
 
 // Create module header
-$titleBlock = new CTitleBlock('Working time', 'myevo-appointments.png', $m, $m . '.' . $a);
+$titleBlock = new w2p_Theme_TitleBlock('Working time', 'myevo-appointments.png', $m, $m . '.' . $a);
 $titleBlock->show();
 
 // tabbed information boxes
