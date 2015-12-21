@@ -187,7 +187,7 @@ class Date_Holidays_Driver_SouthAfrica extends Date_Holidays_Driver
      */
     function getISO3166Codes()
     {
-        return array('gb', 'gbr');
+        return array('za', 'zaf');
     }
 }
 ?>
